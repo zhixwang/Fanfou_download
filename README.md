@@ -3,5 +3,14 @@
 
 环境: Python 2.7
 
-请先安装饭否:
->    pip install fanfou
+请先安装饭否API:
+```
+    pip install fanfou
+```
+
+首先修改config.py下的基本设置
+
+然后运行 robot.py 即可：
+``` 
+    python robot.py
+```
